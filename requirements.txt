@@ -1,6 +1,0 @@
-streamlit
-openai
-google.generativeai
-anthropic
-PyPDF2
-bs4
